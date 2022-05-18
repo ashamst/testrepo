@@ -1,2 +1,4 @@
 git init => to initialise
 git status => list untracked files
+git add -A => add to staging area
+git commit => add to local repo
